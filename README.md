@@ -17,7 +17,7 @@ Introduction
 Visit the [online documentation](https://adminlte.io/docs) for the most
 updated guide.
 
-![alt text](https://raw.githubusercontent.com/ardanfeb/AdminLTE/dist/img/readme.png)
+![alt text](https://raw.githubusercontent.com/ardanfeb/AdminLTE/master/dist/img/readme.png)
 
 ### Contribution
 Contribution are always **welcome and recommended**! Here is how:
